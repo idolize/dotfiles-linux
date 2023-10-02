@@ -8,4 +8,4 @@ This collection of dotfiles is organized according to the [stow](https://www.gnu
 
 ## How to use
 
-Either run `stow` directly, or ideally use the [ansible-role-dotfiles](https://github.com/idolize/ansible-role-dotfiles) Ansible role.
+Either run the manual `./stow.sh` script, or ideally use the [idolize.dotfiles_stow](https://github.com/idolize/ansible-role-dotfiles-stow) Ansible role.
